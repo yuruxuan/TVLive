@@ -2,12 +2,32 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#333333">
+    android:background="#333333"
+    android:padding="10dp">
+
+    <coding.yu.tvlive.IndexLayout
+        android:id="@+id/layout_index"
+        android:layout_width="84dp"
+        android:layout_height="match_parent"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:orientation="vertical" />
 
     <coding.yu.tvlive.MenuLayout
         android:id="@+id/layout_menu"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:padding="8px" />
+        android:layout_toRightOf="@id/layout_index" />
+
+    <TextView
+        android:id="@+id/text_version"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/layout_index"
+        android:layout_alignRight="@id/layout_index"
+        android:textColor="#595959"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:textSize="10sp" />
 
 </RelativeLayout>

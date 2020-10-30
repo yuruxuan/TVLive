@@ -98,7 +98,9 @@ public class MenuLayout extends FrameLayout {
 
             addView(wrapper);
         }
+    }
 
+    public void requestFirstFocus() {
         if (getChildCount() > 0) {
             getChildAt(0).requestFocusFromTouch();
         }
