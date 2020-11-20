@@ -12,10 +12,20 @@ android {
         versionName "1.2"
     }
 
+    signingConfigs {
+        release {
+            keyAlias 'TVLive'
+            keyPassword 'TVLive'
+            storeFile file('TVLive.jks')
+            storePassword 'TVLive '
+        }
+    }
+
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
         }
     }
 
