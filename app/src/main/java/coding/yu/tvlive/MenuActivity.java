@@ -88,7 +88,6 @@ public class MenuActivity extends AppCompatActivity {
         mIndexList.add(new IndexItem("menu-gitv-hls.json", "Gitv·HLS"));
         mIndexList.add(new IndexItem("menu-chinamobile-hls.json", "移动·HLS"));
         mIndexList.add(new IndexItem("menu-bupt-hls.json", "北邮·HLS"));
-        mIndexList.add(new IndexItem("menu-bupt-rtmp.json", "北邮·RTMP"));
         mIndexLayout.setIndexList(mIndexList);
     }
 

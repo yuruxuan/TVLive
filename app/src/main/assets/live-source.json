@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "groups": [
+    {
+      "name": "易视腾",
+      "items": [
+        {
+          "id": "cctv1",
+          "url": "http://121.31.30.91:8081/ysten-business/live/cctv-1/1.m3u8"
+        },
+        {
+          "id": "cctv2",
+          "url": "http://121.31.30.91:8081/ysten-business/live/cctv-2/1.m3u8"
+        },
+        {
+          "id": "cctv3",
+          "url": "http://121.31.30.91:8081/ysten-business/live/cctv-3/1.m3u8"
+        },
+        {
+          "id": "cctv4",
+          "url": "http://121.31.30.91:8081/ysten-business/live/cctv-4/1.m3u8"
+        },
+        {
+          "id": "cctv5",
+          "url": "http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8"
+        },
+        {
+          "id": "cctv6",
+          "url": "http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8"
+        },
+        {
+          "id": "cctv7",
+          "url": "http://121.31.30.91:8081/ysten-business/live/cctv-7/1.m3u8"
+        },
+        {
+          "id": "cctv8",
+          "url": "http://121.31.30.91:8081/ysten-business/live/cctv-8/1.m3u8"
+        },
+        {
+          "id": "cctv9",
+          "url": "http://121.31.30.91:8081/ysten-business/live/cctv-9/1.m3u8"
+        },
+        {
+          "id": "cctv10",
+          "url": "http://121.31.30.91:8081/ysten-business/live/cctv-10/1.m3u8"
+        },
+        {
+          "id": "cctv12",
+          "url": "http://121.31.30.91:8081/ysten-business/live/cctv-12/1.m3u8"
+        },
+        {
+          "id": "cctv13",
+          "url": "http://121.31.30.91:8081/ysten-business/live/cctv-13/1.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "安徽农业大学",
+      "items": [
+        {
+          "id": "cctv1",
+          "url": "http://itv.ahau.edu.cn/hls/cctv1hd.m3u8"
+        },
+        {
+          "id": "cctv2",
+          "url": "http://itv.ahau.edu.cn/hls/cctv2hd.m3u8"
+        },
+        {
+          "id": "cctv3",
+          "url": "http://itv.ahau.edu.cn/hls/cctv3hd.m3u8"
+        },
+        {
+          "id": "cctv4",
+          "url": "http://itv.ahau.edu.cn/hls/cctv4hd.m3u8"
+        },
+        {
+          "id": "cctv5",
+          "url": "http://itv.ahau.edu.cn/hls/cctv5hd.m3u8"
+        },
+        {
+          "id": "cctv6",
+          "url": "http://itv.ahau.edu.cn/hls/cctv6hd.m3u8"
+        },
+        {
+          "id": "cctv7",
+          "url": "http://itv.ahau.edu.cn/hls/cctv7hd.m3u8"
+        },
+        {
+          "id": "cctv8",
+          "url": "http://itv.ahau.edu.cn/hls/cctv8hd.m3u8"
+        },
+        {
+          "id": "cctv9",
+          "url": "http://itv.ahau.edu.cn/hls/cctv9hd.m3u8"
+        },
+        {
+          "id": "cctv10",
+          "url": "http://itv.ahau.edu.cn/hls/cctv10hd.m3u8"
+        },
+        {
+          "id": "cctv11",
+          "url": "http://itv.ahau.edu.cn/hls/cctv11.m3u8"
+        },
+        {
+          "id": "cctv12",
+          "url": "http://itv.ahau.edu.cn/hls/cctv12hd.m3u8"
+        },
+        {
+          "id": "cctv13",
+          "url": "http://itv.ahau.edu.cn/hls/cctv13.m3u8"
+        },
+        {
+          "id": "cctv14",
+          "url": "http://itv.ahau.edu.cn/hls/cctv14hd.m3u8"
+        },
+        {
+          "id": "cctv17",
+          "url": "http://itv.ahau.edu.cn/hls/cctv17hd.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "北京邮电",
+      "items": [
+        {
+          "id": "cctv1",
+          "url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
+        },
+        {
+          "id": "cctv2",
+          "url": "http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8"
+        },
+        {
+          "id": "cctv3",
+          "url": "http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8"
+        },
+        {
+          "id": "cctv4",
+          "url": "http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8"
+        },
+        {
+          "id": "cctv5+",
+          "url": "http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8"
+        },
+        {
+          "id": "cctv6",
+          "url": "http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8"
+        },
+        {
+          "id": "cctv7",
+          "url": "http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8"
+        },
+        {
+          "id": "cctv8",
+          "url": "http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8"
+        },
+        {
+          "id": "cctv9",
+          "url": "http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8"
+        },
+        {
+          "id": "cctv10",
+          "url": "http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8"
+        },
+        {
+          "id": "cctv11",
+          "url": "http://ivi.bupt.edu.cn/hls/cctv11.m3u8"
+        },
+        {
+          "id": "cctv12",
+          "url": "http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8"
+        },
+        {
+          "id": "cctv13",
+          "url": "http://ivi.bupt.edu.cn/hls/cctv13.m3u8"
+        },
+        {
+          "id": "cctv14",
+          "url": "http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8"
+        },
+        {
+          "id": "cctv17",
+          "url": "http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8"
+        }
+      ]
+    }
+  ]
+}
